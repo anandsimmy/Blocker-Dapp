@@ -9,7 +9,7 @@ This smart contract is made between employer and labourer and its deployed on an
 
 Its tested using an online solidity compiler
 
-Also this smart contract written dapp can be compiled, executed and test run using truffle framework using metamask extension and testrpc call in command line
+Also this smart contract contained dapp can be compiled, executed and test run using truffle framework using metamask extension and testrpc call in command line
 
 This app is in development.If you found any bugs please feel free to contact me
 
