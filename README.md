@@ -5,7 +5,7 @@ It can be compiled using an online solidity compiler remix.etherum.org
 
 prescribed smart contract is contracts/migrantcontract.sol
 
-This smart contract is made between employer and labourer and its deployed on an Ethereum blockchain
+This smart contract is made between an employer and labourers. And then its deployed on an Ethereum blockchain
 
 Its tested using an online solidity compiler
 
